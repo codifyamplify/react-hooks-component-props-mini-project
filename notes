@@ -1,0 +1,7 @@
+COMPONANT HEIRARCHY
+
+APP
+>>HEADER(props: name)
+>>ABOUT(props: image)
+>>ARTICLE-LIST(props: about-text-p, post)
+>> >>ARTICLE(props: title, date, preview-p)
